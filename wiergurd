@@ -211,9 +211,9 @@
   "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
   "pre_shared_key": "",
   "private_key": "UM8oLiSWDBvxEfvNbcjHMRgp9aV9bFdRw2wGgrwAw3U=",
-  "reserved": "IZG/",
   "server": "188.114.99.133",
   "server_port": 8886,
+    "reserved": "IZG/",
   "tag": "🇮🇷®️👹",
   "type": "wireguard"
 },
